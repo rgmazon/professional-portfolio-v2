@@ -1,0 +1,116 @@
+
+
+@font-face {
+    font-family: 'PP Neue Montreal Book';
+    font-style: normal;
+    font-weight: normal;
+    src: local('PP Neue Montreal Book'), url('./fonts/PPNeueMontreal/ppneuemontreal-book.woff') format('woff');
+    }
+    
+
+@font-face {
+font-family: 'PP Neue Montreal Italic';
+font-style: normal;
+font-weight: normal;
+src: local('PP Neue Montreal Italic'), url('./fonts/PPNeueMontreal/ppneuemontreal-italic.woff') format('woff');
+}
+    
+
+@font-face {
+font-family: 'PP Neue Montreal Thin';
+font-style: normal;
+font-weight: normal;
+src: local('PP Neue Montreal Thin'), url('./fonts/PPNeueMontreal/ppneuemontreal-thin.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'PP Neue Montreal Medium';
+font-style: normal;
+font-weight: normal;
+src: local('PP Neue Montreal Medium'), url('./fonts/PPNeueMontreal/ppneuemontreal-medium.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'PP Neue Montreal SemiBold italic';
+font-style: normal;
+font-weight: normal;
+src: local('PP Neue Montreal SemiBold italic'), url('./fonts/PPNeueMontreal/ppneuemontreal-semibolditalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'PP Neue Montreal Bold';
+font-style: normal;
+font-weight: normal;
+src: local('PP Neue Montreal Bold'), url('./fonts/PPNeueMontreal/ppneuemontreal-bold.woff') format('woff');
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    background-color: #0e090d;
+    color: #f1dada;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  
+  
+  main {
+    margin-top: 60px;
+  }
+  
+  .section {
+    padding: 4rem 0;
+  }
+  
+  .section h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .experience-item, .education-item {
+    margin-bottom: 2rem;
+  }
+  
+  form {
+    display: grid;
+    gap: 1rem;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  
