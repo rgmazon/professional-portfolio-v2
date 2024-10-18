@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a2fbe06.css",
+    "main.js": "/static/js/main.788ea6d8.js",
+    "static/js/453.bb257cf5.chunk.js": "/static/js/453.bb257cf5.chunk.js",
+    "static/media/ppneuemontreal-semibolditalic.woff": "/static/media/ppneuemontreal-semibolditalic.fecd7c119da33cbd2cae.woff",
+    "static/media/ppneuemontreal-medium.woff": "/static/media/ppneuemontreal-medium.c9aa1a79574392d72beb.woff",
+    "static/media/ppneuemontreal-bold.woff": "/static/media/ppneuemontreal-bold.af69b9307ed86b5919b0.woff",
+    "static/media/ppneuemontreal-book.woff": "/static/media/ppneuemontreal-book.f9bb01b77639d88d2cc9.woff",
+    "static/media/ppneuemontreal-italic.woff": "/static/media/ppneuemontreal-italic.dd0869ae3354c9ce00e2.woff",
+    "static/media/ppneuemontreal-thin.woff": "/static/media/ppneuemontreal-thin.3c2be26cc4d4ba943b61.woff",
+    "static/media/MangoGrotesque-Medium.woff": "/static/media/MangoGrotesque-Medium.2ae056e888cfdef7470e.woff",
+    "static/media/MangoGrotesque-Regular.woff": "/static/media/MangoGrotesque-Regular.029015dcd53e50c6a1e3.woff",
+    "index.html": "/index.html",
+    "main.3a2fbe06.css.map": "/static/css/main.3a2fbe06.css.map",
+    "main.788ea6d8.js.map": "/static/js/main.788ea6d8.js.map",
+    "453.bb257cf5.chunk.js.map": "/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a2fbe06.css",
+    "static/js/main.788ea6d8.js"
+  ]
+}
